@@ -2,10 +2,7 @@ package com.wallet.tdwallet.operations;
 
 import com.wallet.tdwallet.connection.DBConnection;
 import com.wallet.tdwallet.model.Currency;
-import com.wallet.tdwallet.model.Transaction;
-
 import java.sql.*;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
